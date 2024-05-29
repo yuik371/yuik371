@@ -47,6 +47,10 @@
 
 <br/>
 </p>
+<h5 align="center">🤖 Artificial Intelligence</h5>
+<p align="center">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
 
 <hr>
 
@@ -58,6 +62,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<"https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20!🥳&fontSize=50&animation=twinkling)
 
 <!--
 **yuik371/yuik371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
