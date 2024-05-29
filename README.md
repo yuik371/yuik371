@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**yuik371/yuik371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${HelloWorld!%20!🥳}&fontSize=${50}&animation=${twinkling})
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**yuik371/yuik371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
