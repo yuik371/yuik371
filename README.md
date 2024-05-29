@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20!🥳&fontSize=50&animation=twinkling)
 
+
+🏫 university - Korea National University of Transfortation (Department of Software)
+
+👨‍🏫 graduate school - Korea National University of Transfortation (Department of Software)
+
+💼 LAB / BigData & DataBase Lab
+
 ![Github](https://github-readme-stats.vercel.app/api?username=yuik371&theme=blue-green)
 ![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=yuik371&theme=blue-green)
 
@@ -56,16 +63,6 @@
 </p>
 
 <hr>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
 <!--
 **yuik371/yuik371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
