@@ -63,7 +63,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Footer]([https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green])
+![Footer](https://github-readme-stats.vercel.app/api?username={yuik371}&theme=blue-green)
 
 <!--
 **yuik371/yuik371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
