@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20!🥳&fontSize=50&animation=twinkling)
 
-![Github](https://github-readme-stats.vercel.app/api?username={yuik371}&theme=blue-green)
-![Github](https://github-readme-stats.vercel.app/api?username={dev_yi0712}&theme=blue-green)
+![Github](https://github-readme-stats.vercel.app/api?username=yuik371&theme=blue-green)
+![Github](https://github-readme-stats.vercel.app/api?username=dev_yi0712&theme=blue-green)
 
 <h2 align="center">🔥Tech Stack🔥</h2>
 
