@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello World%20!🥳&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello_World%20!🥳&fontSize=50&animation=twinkling)
 
 
 🏫 university - Korea National University of Transfortation (Department of Software)
